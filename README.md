@@ -1,3 +1,0 @@
-# computerscienceportfolio
-
-**ADD INFO ABOUT THE PORTFOLIO / WHAT PROJECTS INSIDE IT**
