@@ -14,7 +14,7 @@ from your existing Spotify playlists or Liked Songs library.
 	- Access your Client ID and Client Secret in your app overview page
 	- Press edit settings, then add https://www.google.com/ as the Redirect URI
 
-2. Downloadd and fill out config.txt
+2. Download and fill out config.txt
 	- Open config.txt
 	- Paste your Username, Client ID, and Client Secret in their respective spots
 	- Save the file
